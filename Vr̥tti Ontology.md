@@ -244,14 +244,12 @@ Case, dependency, and clause structure are not human inventions but **discoverie
 | ----------------- | --------------------------------------- | -------------------------------------- |
 | **Śabda-brahman** | Undifferentiated semantic plenum        | Lexical roots in superposition         |
 | **Sphoṭa**        | Holistic semantic burst                 | Word/clause as unified meaning-event   |
-| **Vr̥tti**        | Perturbation/wave in meaning-space      | Verb (finite or participial)           |
-| **Mahā-vr̥tti**   | Primary ontological pulse               | Finite verb (clause head)              |
+| **Vr̥tti**         | Perturbation/wave in meaning-space      | Verb (finite or participial)           |
+| **Mahā-vr̥tti**    | Primary ontological pulse               | Finite verb (clause head)              |
+| **Upa-vr̥tti**     | Subsidiary pulse / dependent modulation | Participle (modifies head-noun)        |
 | **Root**          | Semantic field / potential-space        | Lexical base (unspecified)             |
 | **Derivation**    | Collapse of superposition → specificity | Morphological filtering                |
 | **Noun**          | Crystallized role / standing wave       | Nominal argument                       |
-| **Case**          | Geometric relation in vr̥tti-field      | Nominal/verbal case marking            |
+| **Case**          | Geometric relation in vr̥tti-field       | Nominal/verbal case marking            |
 | **Dependency**    | Wave-coupling / field resonance         | Head–dependent relations               |
-| **Clause**        | Fully determinate manifestation         | Finite vr̥tti + all realized arguments |
-
-This ontology provides the **why** beneath the grammatical **how**. Language is not notation but **enacted ontology**—the universe collapsing into words.
-
+| **Clause**        | Fully determinate manifestation         | Finite vr̥tti + all realized arguments  |

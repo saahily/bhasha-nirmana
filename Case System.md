@@ -86,7 +86,7 @@ Measure how **subsidiary vr̥ttis** (participial forms) relate to head-nouns:
 1. **Inverse cases (K⁻¹):** projection operators that externalize one internal role
 2. **Propositive (PROP):** norm operator that links the entire vr̥tti-field
 
-See [[Verb Cases]] for full morphological specifications.
+See [[Verb Cases]] for operator definitions; [[Clause Structure]] for clause formation patterns.
 
 ---
 
@@ -103,32 +103,19 @@ _Like cartesian coordinates specifying location in cartesian space, nominal case
 
 ### 2. Inverse Verbal Cases: Projection Operators
 
-Inverse cases **extract** a specific role from the vr̥tti's internal field and externalize it as the head-noun:
+Inverse cases **project** a specific role out of the vr̥tti-field:
 
-```
-vr̥tti-field: {role₁(C1), role₂(C2), role₃(ABL), role₄(DAT), role₅(SUB)}
-           ↓ apply K⁻¹ (K = one of {C1, C2, ABL, DAT, SUB})
-externalized: roleₖ becomes head-noun
-internal: {all other roles remain with their cases}
-```
+_In linear algebra, a projection operator extracts one component of a vector. K⁻¹ projects one role out of the vr̥tti's multi-dimensional field—the head-noun *is* that participant._
 
-_In linear algebra, a projection operator extracts one component of a vector. K⁻¹ projects one role out of the vr̥tti's multi-dimensional field._
-
-Relative and adverbial clauses are **projections**, not transformations.
+See [[Verb Cases]] for the full inventory; [[Clause Structure]] for relative clause formation.
 
 ### 3. PROP: Norm Operator
 
-PROP collapses the **entire vr̥tti-field** into a single entity (the event-as-totality) that becomes an argument of the matrix verb:
+PROP collapses the **entire vr̥tti-field** into a scalar-like entity linked to a head-noun:
 
-```
-vr̥tti-field: {role₁(C1), role₂(C2), ...}
-           ↓ apply PROP
-event-noun: [whole vr̥tti] ← treated as proposition-as-totality
-```
+_If inverse cases are vector projections, PROP computes the norm—the head-noun *contains* the event-as-totality, then occupies a coordinate in the matrix field via its nominal case._
 
-_If inverse cases are vector projections, PROP is a norm operator; it links the entire field to an event-noun, which then becomes the matrix argument._
-
-Complement clauses use event-nouns to reify the dependent vr̥tti as a **first-class entity**.
+See [[Verb Cases]] for the geometric definition; [[Clause Structure]] for complement and adverbial clause formation.
 
 ---
 
@@ -172,14 +159,13 @@ Case is not arbitrary morphology—it is the **visible trace** of semantic field
 
 ---
 
-## VIII. Summary
+## VIII. Summary Table
 
-| Concept               | Domain       | Function                                  | Reference         |
-| --------------------- | ------------ | ----------------------------------------- | ----------------- |
-| **C1, C2**            | Nominal      | Structural poles of vr̥tti-field          | [[Noun Cases]]    |
-| **ABL, DAT, SUB**     | Nominal      | Directional/substrate geometry            | [[Noun Cases]]    |
-| **GEN, VOC, GEN⁻¹**   | Nominal      | Relational/pragmatic/inverse              | [[Noun Cases]]    |
-| **C1⁻¹ ... SUB⁻¹**    | Verbal       | Projection operators (role extraction)    | [[Verb Cases]]    |
-| **PROP**              | Verbal       | Norm operator (whole-field linkage)       | [[Verb Cases]]    |
-
+| Case                  | Domain       | Function                          | Reference            |
+| --------------------- | ------------ | --------------------------------- | -------------------- |
+| **C1, C2**            | Nominal      | Structural poles of vr̥tti-field   | [[Noun Cases]]       |
+| **ABL, DAT, SUB**     | Nominal      | Directional/substrate geometry    | [[Noun Cases]]       |
+| **GEN, VOC, GEN⁻¹**   | Nominal      | Relational/pragmatic/inverse      | [[Noun Cases]]       |
+| **C1⁻¹ ... SUB⁻¹**    | Verbal       | Projection operators              | [[Verb Cases]]       |
+| **PROP**              | Verbal       | Norm operator                     | [[Verb Cases]]       |
 
